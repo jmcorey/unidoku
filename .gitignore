@@ -1,0 +1,6 @@
+/debug
+/target
+*.swp
+*.swo
+.valgrindrc
+.cargo
